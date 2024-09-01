@@ -1,1 +1,1 @@
-# Assessment-
+This is CPP Assessment containing the total cost of supplies for students. In  this programm Arthematic opeartion-Multiplicatuon opertor is used to calculate the cost per 15notebooks and per 20pens for students. After calculating the output=48.75
