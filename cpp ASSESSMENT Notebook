@@ -1,0 +1,24 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    
+     int numNotebooks = 15;
+     int numPens = 20;
+
+    
+    double costPerNotebook = 2.25;
+     double costPerPen = 0.75;
+
+    
+    double totalCostNotebooks = numNotebooks * costPerNotebook;
+    double totalCostPens = numPens * costPerPen;
+
+    
+    double totalCost = totalCostNotebooks + totalCostPens;
+
+    // Output the total cost
+    cout << "Total cost of supplies: Rs. " << totalCost << endl;
+
+    return 0;
+}
